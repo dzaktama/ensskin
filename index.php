@@ -58,7 +58,7 @@ foreach ($settings as $setting) {
             <div class="space-y-6 z-10">
                 <h1 class="text-5xl md:text-6xl font-bold text-gray-900 leading-tight">
                     Wujudkan Kulit<br>
-                    <span class="text-primary">Impian Anda</span>
+                    <span class="text-primary">Impian Anda di Ensskin</span>
                 </h1>
                 <p class="text-xl text-gray-600 leading-relaxed">
                     Treatment kecantikan profesional dengan teknologi terkini dan hasil yang terbukti. Raih kepercayaan diri Anda bersama Ensskin Beauty Glow.
